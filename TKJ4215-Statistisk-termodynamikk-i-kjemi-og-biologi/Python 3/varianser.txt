@@ -1,0 +1,17 @@
+Number of particles: 4
+0.05555555555555556
+Number of particles: 6
+0.0336
+Number of particles: 8
+0.019897959183673472
+Number of particles: 12
+0.011570247933884299
+Number of particles: 16
+0.0065811965811965805
+Number of particles: 20
+0.006789419368855574
+Number of particles: 24
+0.004703393644792514
+
+
+Tok sånn 7-8 min
