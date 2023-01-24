@@ -1,0 +1,10 @@
+{
+    "tdt4102.isProjectFolder": true,
+    "files.associations": {
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "set": "cpp",
+        "iosfwd": "cpp",
+        "vector": "cpp"
+    }
+}

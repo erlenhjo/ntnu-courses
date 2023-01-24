@@ -1,0 +1,8 @@
+{
+    "tdt4102.isProjectFolder": true,
+    "files.associations": {
+        "iostream": "cpp",
+        "xiosbase": "cpp",
+        "vector": "cpp"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "tdt4102.isProjectFolder": true,
+    "files.associations": {
+        "random": "cpp",
+        "type_traits": "cpp"
+    }
+}
